@@ -1,1 +1,2 @@
 Finalizar o curso Dev Fullstack até 17/07
+Adicionado projeto da página inicial do Instagram usando CSS e flex
